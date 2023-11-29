@@ -65,7 +65,6 @@ li {
     position: relative; /* Add position relative for positioning the toggle button */
 }
 
-/* Style the logs list */
 .logs {
     list-style-type: none;
     padding-left: 20px;
@@ -73,7 +72,6 @@ li {
     margin-top: 10px;
 }
 
-/* Style the toggle button */
 .toggleButton {
     position: absolute;
     top: 10px;
@@ -91,7 +89,6 @@ li {
     background-color: #2980b9 !important;
 }
 
-/* Additional styling for the logs list items */
 .logs li {
     background-color: #f9f9f9;
     padding: 10px;
